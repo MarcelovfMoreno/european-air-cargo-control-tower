@@ -136,8 +136,9 @@ FROM fact_flights f
 GROUP BY cargo_hub
 ORDER BY total_position_pings DESC;
 
-8. Ground Handling & Turnaround Time Tracking
+### 8. Ground Handling & Turnaround Time Tracking
 Identifies grounded aircraft by capturing first-seen and last-seen timestamps to measure ground dwell time (proxy for turnaround efficiency).
+```sql
 SELECT 
     f.callsign,
     c.carrier_name,
