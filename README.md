@@ -152,4 +152,4 @@ ORDER BY ground_pings_count DESC;
 
 
 📊 Tableau Interactive Dashboard
-🔗 View Interactive Dashboard on Tableau Public
+🔗 [View Interactive Dashboard on Tableau Public](https://public.tableau.com/views/EuropeanAirCargoTrackingPipelineAnalytics/Dashboard1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
